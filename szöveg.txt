@@ -1,19 +1,19 @@
-Honfoglaló
+Honfoglalï¿½
 
-A Honfoglaló egy magyar fejlesztésû online stratégiai kvízjáték, amely 2002. október 20-án debütált az interneten. Külföldön is megjelent: Dobyvatel ("Hódító") címen cseh, illetve Triviador címen spanyol, angol, bolgár, orosz, arab, török, portugál, román, német, francia, lengyel, szlovén és szerb nyelven. Késõbb (2003. február 11-tõl) már társasjáték formájában is játszható volt, ugyanezen nyelveken. A játékot a felhasználói is bõvíthetik azzal, hogy kérdéseket küldenek be az oldalra, amik elõször egy szûrõn mennek át, majd késõbb a játékban is láthatóak is lesznek.
+A Honfoglalï¿½ egy magyar fejlesztï¿½sï¿½ online stratï¿½giai kvï¿½zjï¿½tï¿½k, amely 2002. oktï¿½ber 20-ï¿½n debï¿½tï¿½lt az interneten. Kï¿½lfï¿½ldï¿½n is megjelent: Dobyvatel ("Hï¿½dï¿½tï¿½") cï¿½men cseh, illetve Triviador cï¿½men spanyol, angol, bolgï¿½r, orosz, arab, tï¿½rï¿½k, portugï¿½l, romï¿½n, nï¿½met, francia, lengyel, szlovï¿½n ï¿½s szerb nyelven. Kï¿½sï¿½bb (2003. februï¿½r 11-tï¿½l) mï¿½r tï¿½rsasjï¿½tï¿½k formï¿½jï¿½ban is jï¿½tszhatï¿½ volt, ugyanezen nyelveken. A jï¿½tï¿½kot a felhasznï¿½lï¿½i is bï¿½vï¿½thetik azzal, hogy kï¿½rdï¿½seket kï¿½ldenek be az oldalra, amik elï¿½szï¿½r egy szï¿½rï¿½n mennek ï¿½t, majd kï¿½sï¿½bb a jï¿½tï¿½kban is lï¿½thatï¿½ak is lesznek.
 
-JÁTÉKMENET
+Jï¿½Tï¿½KMENET
 
-A játék célja, hogy kérdéseket megválaszolva minél több megyét lehessen elfoglalni Magyarország térképén. A játék elõször egy faluban kezdõdik, majd a Játékindítás gombra kattintva, aztán pedig a nehézségi fok kiválasztása után indítható el. A nyertes az, aki a legtöbb pontot szerzi meg a játszma végére. A kérdésekre tippelni lehet, illetve megadott válaszokat lehet kiválasztani. Egyszerre 3 játékos játszhat egymás ellen (játszmánként). A 3 játékos színe: piros, zöld, kék (utóbbi helyett korábban a sárga volt használatos) . A játék bázisfoglalással kezdõdik, amikor a gép elhelyezi mindhárom játékos várát egy-egy megyében, ezután a játékosok a többi megye megszerzéséért küzdenek kérdések megválaszolásával. Miután elfogyott a térképrõl az összes szabad megye, megkezdõdik a foglalás, amikor a játékosok egymás megyéinek elfoglalására törekednek (harcolnak). A játékban egy megye elfoglalásáért helyes választ kell kiválasztani a négybõl; amennyiben mindkét játékos helyesen válaszol, egy tippelõs kérdésre közelebbi számot kell megadni, mint az ellenfél, vagy ha ugyanazt a számot adja meg az ellenfél is, akkor a gyorsabban válaszoló játékosé lesz a megye. Egy vár elfoglalásáért háromszor kell végigcsinálni ezt. A játékban több játékmód van (pl.: villámháború, hosszú hadjárat, junior játék, mini bajnokság, játék barátokkal stb.). A külföldi változatok játékmenete nem tér el nagyban, csak a Magyarország-térkép helyett az adott ország térképén lehet játszani.
+A jï¿½tï¿½k cï¿½lja, hogy kï¿½rdï¿½seket megvï¿½laszolva minï¿½l tï¿½bb megyï¿½t lehessen elfoglalni Magyarorszï¿½g tï¿½rkï¿½pï¿½n. A jï¿½tï¿½k elï¿½szï¿½r egy faluban kezdï¿½dik, majd a Jï¿½tï¿½kindï¿½tï¿½s gombra kattintva, aztï¿½n pedig a nehï¿½zsï¿½gi fok kivï¿½lasztï¿½sa utï¿½n indï¿½thatï¿½ el. A nyertes az, aki a legtï¿½bb pontot szerzi meg a jï¿½tszma vï¿½gï¿½re. A kï¿½rdï¿½sekre tippelni lehet, illetve megadott vï¿½laszokat lehet kivï¿½lasztani. Egyszerre 3 jï¿½tï¿½kos jï¿½tszhat egymï¿½s ellen (jï¿½tszmï¿½nkï¿½nt). A 3 jï¿½tï¿½kos szï¿½ne: piros, zï¿½ld, kï¿½k (utï¿½bbi helyett korï¿½bban a sï¿½rga volt hasznï¿½latos) . A jï¿½tï¿½k bï¿½zisfoglalï¿½ssal kezdï¿½dik, amikor a gï¿½p elhelyezi mindhï¿½rom jï¿½tï¿½kos vï¿½rï¿½t egy-egy megyï¿½ben, ezutï¿½n a jï¿½tï¿½kosok a tï¿½bbi megye megszerzï¿½sï¿½ï¿½rt kï¿½zdenek kï¿½rdï¿½sek megvï¿½laszolï¿½sï¿½val. Miutï¿½n elfogyott a tï¿½rkï¿½prï¿½l az ï¿½sszes szabad megye, megkezdï¿½dik a foglalï¿½s, amikor a jï¿½tï¿½kosok egymï¿½s megyï¿½inek elfoglalï¿½sï¿½ra tï¿½rekednek (harcolnak). A jï¿½tï¿½kban egy megye elfoglalï¿½sï¿½ï¿½rt helyes vï¿½laszt kell kivï¿½lasztani a nï¿½gybï¿½l; amennyiben mindkï¿½t jï¿½tï¿½kos helyesen vï¿½laszol, egy tippelï¿½s kï¿½rdï¿½sre kï¿½zelebbi szï¿½mot kell megadni, mint az ellenfï¿½l, vagy ha ugyanazt a szï¿½mot adja meg az ellenfï¿½l is, akkor a gyorsabban vï¿½laszolï¿½ jï¿½tï¿½kosï¿½ lesz a megye. Egy vï¿½r elfoglalï¿½sï¿½ï¿½rt hï¿½romszor kell vï¿½gigcsinï¿½lni ezt. A jï¿½tï¿½kban tï¿½bb jï¿½tï¿½kmï¿½d van (pl.: villï¿½mhï¿½borï¿½, hosszï¿½ hadjï¿½rat, junior jï¿½tï¿½k, mini bajnoksï¿½g, jï¿½tï¿½k barï¿½tokkal stb.). A kï¿½lfï¿½ldi vï¿½ltozatok jï¿½tï¿½kmenete nem tï¿½r el nagyban, csak a Magyarorszï¿½g-tï¿½rkï¿½p helyett az adott orszï¿½g tï¿½rkï¿½pï¿½n lehet jï¿½tszani.
 
-LIGÁK & RANGLISTÁK
-4 FAJTA RANGLISTÁVAL TALÁLKOZHATSZ A HONFOGLALÓBAN:
-Barát
-Személyes
+LIGï¿½K & RANGLISTï¿½K
+4 FAJTA RANGLISTï¿½VAL TALï¿½LKOZHATSZ A HONFOGLALï¿½BAN:
+Barï¿½t
+Szemï¿½lyes
 Megye
-Klán
-MINDEN RANGLISTA 3 KATEGÓRIÁRA VAN LEBONTVA:
-Mindenidõk: Az összes eddig összegyûjtött XP alapján. Nem kapcsolódik a Ligákhoz.
-Heti: Megmutatja a jelenlegi helyezésedet a Ligán belül. Itt találod, hogy jelenleg melyik ligában harcolsz, ill. hogy kiesõ, feljebb jutó helyen állsz e, vagy maradsz a jelenlegi ligában a Heti Kihívás végén.
-Múltheti: Az elõzõ héten elért eredményedet mutatja.
-Forrás:https://hu.wikipedia.org/wiki/Honfoglal%C3%B3
+Klï¿½n
+MINDEN RANGLISTA 3 KATEGï¿½RIï¿½RA VAN LEBONTVA:
+Mindenidï¿½k: Az ï¿½sszes eddig ï¿½sszegyï¿½jtï¿½tt XP alapjï¿½n. Nem kapcsolï¿½dik a Ligï¿½khoz.
+Heti: Megmutatja a jelenlegi helyezï¿½sedet a Ligï¿½n belï¿½l. Itt talï¿½lod, hogy jelenleg melyik ligï¿½ban harcolsz, ill. hogy kiesï¿½, feljebb jutï¿½ helyen ï¿½llsz e, vagy maradsz a jelenlegi ligï¿½ban a Heti Kihï¿½vï¿½s vï¿½gï¿½n.
+Mï¿½ltheti: Az elï¿½zï¿½ hï¿½ten elï¿½rt eredmï¿½nyedet mutatja.
+Forrï¿½s:https://hu.wikipedia.org/wiki/Honfoglal%C3%B3

@@ -5,7 +5,7 @@
     background-color: #333;
     color: white;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    line-height: 3em;
+    line-height: 2em;
     
 }
 .kor{
@@ -15,11 +15,11 @@
     list-style:upper-roman;
 }
 .tartalom{
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
 }
 h1{
-    color: #e35ffd;
+    color: #FDE55F;
     font-variant: small-caps;
     text-align: center;
     font-size: 3em;
@@ -29,12 +29,13 @@ h1{
     padding: 10px;
 }
 h2,h3{
-    color: #8e5ffd;
+    color: #FDE55F;
     text-transform: uppercase;
 }
 #logo{
     width: 70%;
-    
+    color: #FDE55F;
+    float: right;
 }
 .kozepre{
     text-align: center;
@@ -48,7 +49,7 @@ p{
 }
 a{
     text-decoration: none;
-    color: #fd775f;
+    color: #FDE55F;
 }
 a:hover{
     color: #FDE55F;
